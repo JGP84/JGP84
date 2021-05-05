@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JGP84
+- 👋 Hi, I’m José Gilabert
 - 👀 I’m interested in developing applications with Javascript
 - 🌱 I’m currently learning the entire react ecosystem
 - 💞️ I’m looking to collaborate in projects that can add value to society
